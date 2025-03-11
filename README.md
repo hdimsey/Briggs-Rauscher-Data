@@ -1,0 +1,1 @@
+This is a copy of the experimental data taken from 'An introduction to Nonlinear Chemical Dynamics' by Irving Epstein and John Pojman. The true experimental data nolonger exists so this data is reconstructed using WebPlotDigitiser.
